@@ -37,14 +37,17 @@ This project focuses on the development of the UTFR Mechanical Braking System, e
 - **T.4.2.1 - T.4.2.12**: The APPS on the accelerator pedal must use dual springs and dual sensors to ensure redundancy, fail-safe mechanisms, and fault detection.
 
 3.1 Full Pedal Tray Assembly
+
 A full pedal tray assembly in our Formula SAE vehicle consists of the brake and throttle pedals, mounted on a lightweight, compact tray designed to fit within the driver’s footwell. Both pedals are carefully designed for ergonomic placement, quick response, and durability, ensuring safety, comfort, and efficient driver input during high-performance racing conditions.
 
 3.1.1 Throttle Pedal
+
 A throttle pedal is linked to the accelerator system through an electronic rotary sensor, allowing smooth and responsive control over the engine's power output.
 
 ![Screenshot 2024-11-11 062958](https://github.com/user-attachments/assets/d25d8be6-2bd6-4b7d-93be-c4c6c3a2d721)
 
 3.1.1.1 APPS Rotary Sensor
+
 The APPS (Accelerator Pedal Position Sensor) will be bolted to an extended shoulder on the throttle pedal, as shown in the image below. Since the bolt will be obscured by interference with the throttle shaft, it will be safety-wired for security. The flat surface of the APPS rod will align with the flat surface of the inner bushing, ensuring that when the driver presses the pedal, the throttle shaft and APPS rod rotate in unison. The inner bushing is offset by about 30 degrees from the neutral position. As the pedal is pressed, the rotation triggers the APPS sensor to send an electronic signal. This signal is then calibrated to control wheel speed. Please refer to the data sheet for more details. Additionally, if there’s more accurate information about how the APPS sensor sends electronic signals, please let Bararrey know so it can correctly control the car’s wheel rotation.
 
 ![Screenshot 2024-11-11 062735](https://github.com/user-attachments/assets/ae016989-9905-42ce-84c5-63210a8b727f)
@@ -53,19 +56,23 @@ The APPS (Accelerator Pedal Position Sensor) will be bolted to an extended shoul
 ![image](https://github.com/user-attachments/assets/0e07d790-77f8-4609-9737-4ce74466b8a1)
 
 3.1.1.2 Throttle Spring system 
+
 Our throttle system is equipped with two compression springs. The pedal shaft is designed to accommodate both the mounting of the pedal face and the spring mechanism. This spring system resets the pedal to its original position once the driver lifts their foot, ensuring the throttle returns to the default state. To prevent loosening, the springs are pre-compressed within the spring cap and shaft. This pre-compression is achieved by adjusting a nut at the tail of the shaft, creating an offset that secures the springs. We selected a spring rate of 8 lbs/in, which was tested to provide a comfortable and responsive feel for the driver, aligning with our primary ergonomic goals.
 
 ![image](https://github.com/user-attachments/assets/b01bac7f-3dc5-417a-a433-058a07afc746)
 
 3.1.1.3 Throttle Face
+
 The throttle pedal face will be designed with a length that accommodates all our drivers this season. It will also feature a tab at the end to help secure the driver’s foot, providing stability and preventing slippage during operation.
 
 3.1.1.4 Heel Rest
+
 The heel rest serves as ergonomic support for the driver’s heel, enhancing comfort and stability. To ensure durability, the back of the heel rest is reinforced with a base to prevent bending or wear over time.
 
 ![Screenshot 2024-11-11 063015](https://github.com/user-attachments/assets/3ac5b2ba-a49b-495e-929b-861a75bdcd90)
 
 3.1.1.5 Metals
+
 We will be using aliminum Al6061 due to the facts:
 1. **Lightweight**: Aluminum has a high strength-to-weight ratio, making it ideal for reducing the overall mass of the vehicle, which can enhance performance, fuel efficiency, and handling.
 2. **Corrosion Resistance**: Aluminum naturally forms a protective oxide layer that resists corrosion, helping components last longer, especially in environments exposed to moisture or varying temperatures.

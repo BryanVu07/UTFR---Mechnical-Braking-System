@@ -9,8 +9,7 @@ This project focuses on the development of the UTFR Mechanical Braking System, e
 
 2.0 Brakes Section Goals
 
-![Screenshot 2024-10-03 170544](https://github.com/user-attachments/assets/37cf747d-cc7c-4e1c-bb48-25c7054ad11f)
-![Screenshot 2024-10-03 170601](https://github.com/user-attachments/assets/e50061ab-4456-4657-b88a-8043dfd93e69)
+![image](https://github.com/user-attachments/assets/f5c83527-676a-4fd1-ae23-345690f29e08)
 ![Screenshot 2024-10-03 170626](https://github.com/user-attachments/assets/7f5e29cf-b62a-4df3-909b-45d282ecb651)
 
 3.0 Mechanical Brakes Section Design
@@ -46,11 +45,22 @@ We will be using aliminum Al6061 due to the facts:
 5. **Heat Conductivity**: Aluminum dissipates heat well, which can be beneficial for components near the engine or brakes, as it helps manage temperatures and prevents overheating. 
 6. **Cost-Effectiveness**: Compared to some advanced materials, aluminum is cost-effective and widely available, balancing performance with budget considerations.
 
+3.0.3 Brake Fundamentals
+
+![image](https://github.com/user-attachments/assets/70c021f4-2d7a-4aff-ae0a-79c6f559e0ef)
+![image](https://github.com/user-attachments/assets/94d8087a-62b0-43ce-8150-84c465d88c5c)
+![image](https://github.com/user-attachments/assets/b7649da0-5840-45ef-b2f5-d1473f248037)
+![image](https://github.com/user-attachments/assets/da33940f-53c0-4bc0-b650-994a8169b43b)
+![image](https://github.com/user-attachments/assets/feb6a38f-5155-43b6-95d5-c2800a312659)
+![image](https://github.com/user-attachments/assets/a2e178db-79d0-4364-b070-f02cee4e0dac)
+![image](https://github.com/user-attachments/assets/6861fd91-4b01-4cb5-be8a-d917d09c7139)
+
 3.1 Full Pedal Tray Assembly
 
 A full pedal tray assembly in our Formula SAE vehicle consists of the brake and throttle pedals, mounted on a lightweight, compact tray designed to fit within the driver’s footwell. Both pedals are carefully designed for ergonomic placement, quick response, and durability, ensuring safety, comfort, and efficient driver input during high-performance racing conditions. The brake and throttle pedal assembly will be bolted onto a composite floor panel, which will be positioned within the front space of the chassis. This setup ensures a secure and stable mounting for the pedal system while maintaining the vehicle’s lightweight structure.
 
 ![Screenshot 2024-11-11 071437](https://github.com/user-attachments/assets/7dcb975a-4643-4e5d-b90f-5e108a272572)
+![image](https://github.com/user-attachments/assets/2c2514e6-5be4-4f9a-998f-fab46656fb28)
 
 3.1.1 Throttle Pedal
 
@@ -133,6 +143,7 @@ In our FSAE rear-wheel-drive vehicle, the bias bar system is used to adjust the 
 A proportioning valve will be used in the braking system to control the amount of braking force applied to the front and rear wheels. It regulates the hydraulic pressure delivered to the rear brakes, limiting it to prevent rear-wheel lockup, which could lead to instability or oversteering. This is especially important in vehicles with a rear-wheel-drive configuration, as the rear wheels are more prone to locking under heavy braking.
 
 ![image](https://github.com/user-attachments/assets/2b2ec2d8-6024-4e72-b66e-d89a9e5328f5)
+![image](https://github.com/user-attachments/assets/6d20b285-e519-4d05-b7fb-20146653df8c)
 
 3.1.2.5 Pressure sensor
 
@@ -145,12 +156,14 @@ A pressure sensor in the braking system measures hydraulic pressure, converting 
 3.1.2.7 FEA
 
 ![image](https://github.com/user-attachments/assets/42a6e605-d7f0-447f-9a2f-0a1238e77163)
+![Screenshot 2024-12-15 114246](https://github.com/user-attachments/assets/2f7e733e-6142-4b68-a61f-a8220234c13d)
 
 3.1.3 Floating Rotors:
 
 The rotors were created by the previous Braking System Lead and will continue to be used due to their high thermal efficiency and reliable mechanical design. My responsibility is to ensure that the rotors can be installed with the calipers on the updated suspension system, which includes the upright and hub.
 
 ![image](https://github.com/user-attachments/assets/6efc8723-142c-4912-b6ed-02ab16509e32)
+![image](https://github.com/user-attachments/assets/b6d95604-1eca-4d24-a0b1-1af7da0e9dce)
 
 3.1.3.1 Front Rotor
 
@@ -159,6 +172,9 @@ The rotors were created by the previous Braking System Lead and will continue to
 3.1.3.1.1 Metal
 
 We decided to use 1020 steel for the floating rotor due to a combination of performance, cost-effectiveness, and ease of manufacturing. This material provides a good balance of strength and durability, essential for withstanding the high stresses experienced during braking without warping or failing. Additionally, 1020 steel is affordable, which helps keep costs down while still offering the necessary performance for a racing environment.Lastly, its wear resistance ensures that the rotor will maintain performance over time, making it a practical and reliable choice for our needs.
+
+![image](https://github.com/user-attachments/assets/1857c746-c0cc-4ed6-b30e-8c4f0b75a5f2)
+
 
 3.1.3.2 Rear Rotor
 
@@ -198,6 +214,9 @@ We chose ISR calipers because they are among the lightest available, which is cr
 3.1.3.5.2 Front Caliper
 
 ![image](https://github.com/user-attachments/assets/c583817c-7b99-442a-8581-a2be7adf65fa)
+
+3.1.3.6 Brake Pads
+![image](https://github.com/user-attachments/assets/56cbd3df-2983-444d-a633-32649cc9a76d)
 
 3.1.4 Brake Light
 

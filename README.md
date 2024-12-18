@@ -207,7 +207,7 @@ We chose 7075 aluminum for the bobbin due to its high strength-to-weight ratio, 
 
 3.1.3.5 Calipers
 
-We chose ISR calipers because they are among the lightest available, which is crucial for reducing overall vehicle weight. Additionally, they are widely used by FSAE teams around the world, demonstrating their reliability and proven performance in motorsport applications. This makes them a trusted choice for our braking system.
+We chose ISR calipers because they are among the lightest available, which is crucial for reducing overall vehicle weight. As a result, an ideal Caliper has to have a low weight to total piston area. Additionally, they are widely used by FSAE teams around the world, demonstrating their reliability and proven performance in motorsport applications. This makes them a trusted choice for our braking system. 
 
 3.1.3.5.1 Rear Caliper
 

@@ -138,6 +138,8 @@ Regenerative braking will be implemented this year, incorporating a linear poten
 In our FSAE rear-wheel-drive vehicle, the bias bar system is used to adjust the brake balance between the front and rear wheels. The bias bar functions by allowing the driver to modify the brake force distribution between the front and rear axles, which is crucial for maintaining optimal braking performance and vehicle stability. We have 45% front and 55% rear brake bias, the system is designed to apply more braking force to the rear wheels, which is suitable for a rear-wheel-drive vehicle. This distribution helps to prevent the front wheels from locking up too early and provides more stability during braking, especially under heavy braking conditions or on slippery surfaces.
 
 ![image](https://github.com/user-attachments/assets/d8450cfb-4422-4f58-88dd-aa49faba9d62)
+![image](https://github.com/user-attachments/assets/730efe6c-16d9-47c5-a3b8-27492285afc6)
+
 
 **Adjustment**: 
 A proportioning valve will be used in the braking system to control the amount of braking force applied to the front and rear wheels. It regulates the hydraulic pressure delivered to the rear brakes, limiting it to prevent rear-wheel lockup, which could lead to instability or oversteering. This is especially important in vehicles with a rear-wheel-drive configuration, as the rear wheels are more prone to locking under heavy braking.
